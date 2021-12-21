@@ -1,0 +1,22 @@
+<resources>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_1_fragment">Tab1Fragment</string>
+    <string name="tab_2_fragment">Tab2Fragment</string>
+    <string name="tab_3_fragment">Tab3Fragment</string>
+    <string name="tab_4_fragment">Tab4Fragment</string>
+
+    <string name="app_name">Digital Birr</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">Digital Birr</string>
+    <string name="nav_header_subtitle">developed by Kaleb.A</string>
+</resources>

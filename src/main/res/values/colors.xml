@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#FD0B4667</color>
+    <color name="drawerbutton">#FD0B4667</color>
+    <color name="tabi">#FD0B4676</color>
+    <color name="tabicon">#FFFFFF</color>
+    <color name="tabiconun">#FD0B4667</color>
+</resources>
